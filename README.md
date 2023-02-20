@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @enanesh
-- 🌱  I’m currently taking a developer bootcamp at the University of Washington!
+- 🌱  I’m currently taking a full-stack developer bootcamp at the University of Washington!
 
 
